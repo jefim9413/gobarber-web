@@ -31,7 +31,6 @@ const SignIn: React.FC = () => (
       </Content>
       <Background />
     </Container>
-    <h1>SignIn</h1>
   </>
 );
 
