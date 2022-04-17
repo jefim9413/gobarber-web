@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-
 export const Container = styled.div`
   background: #232129;
   border-radius: 10px;
