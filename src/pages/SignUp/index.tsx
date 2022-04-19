@@ -8,6 +8,7 @@ import Button from '../../components/button';
 const SignUp: React.FC = () => (
   <>
     <Container>
+      <Background />
       <Content>
         <img src={logoIMG} alt="Gobarber" />
 
@@ -29,7 +30,6 @@ const SignUp: React.FC = () => (
           Voltar para logon
         </a>
       </Content>
-      <Background />
     </Container>
   </>
 );
